@@ -6,4 +6,4 @@ Basic Calculator project using C.
 # Requirements
 ## 1.Gcc or any other compailer of C
 
-# for gcc use ````gcc .\calculator.c```` and then  ````.\a.exe ````
+## for gcc use ````gcc .\calculator.c```` and then  ````.\a.exe ````
