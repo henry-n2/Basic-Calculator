@@ -3,6 +3,6 @@ Basic Calculator project using C.
 
  To run Download the repo. Using ````gitclone```` or download zip and extract it
 
-# Requirements
+## Requirements
  1. Gcc or any other compailer of C
  2. for gcc use ````gcc .\calculator.c```` and then  ````.\a.exe ````
